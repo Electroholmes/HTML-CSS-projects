@@ -3,4 +3,4 @@
 
 <h4> HTML, HyperText Markup Language, gives content structure and meaning by defining that content as, for example, headings, paragraphs, or images. CSS, or Cascading Style Sheets, is a presentation language created to style the appearance of content—using, for example, fonts or colors.</h4>
 
-<b> All the credits are given to original writers of the codes. </b>
+### All the credit is given to the original writers of the respective codes in this repository. I, hereby won't claim anyone's work as my work.
